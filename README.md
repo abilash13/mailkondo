@@ -1,2 +1,3 @@
-# mailkondo
-Does your email spark joy?
+# Mail Kondo
+
+> Does your email spark joy?
